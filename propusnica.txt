@@ -1,0 +1,9 @@
+Ime: a
+Prezime: a
+JMBG: a
+Prva doza: 1
+Druga doza: 1
+Treca doza: 1
+Datum prve vakcine: 1/1/2021
+Datum druge vakcine: 1/2/2021
+Datum trece vakcine: 1/9/2021
